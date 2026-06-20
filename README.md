@@ -17,6 +17,7 @@ For reference!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HariniKS13/LeetCode-problems/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/HariniKS13/LeetCode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -41,12 +42,14 @@ For reference!
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/HariniKS13/LeetCode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/HariniKS13/LeetCode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/HariniKS13/LeetCode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0242-valid-anagram](https://github.com/HariniKS13/LeetCode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
