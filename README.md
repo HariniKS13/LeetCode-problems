@@ -14,6 +14,7 @@ For reference!
 | [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -28,6 +29,7 @@ For reference!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@ For reference!
 | [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/HariniKS13/LeetCode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
