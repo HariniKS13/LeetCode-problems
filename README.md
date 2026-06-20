@@ -20,6 +20,7 @@ For reference!
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/HariniKS13/LeetCode-problems/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
