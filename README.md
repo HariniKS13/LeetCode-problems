@@ -20,6 +20,7 @@ For reference!
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HariniKS13/LeetCode-problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/HariniKS13/LeetCode-problems/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 ## Hash Table
@@ -97,4 +98,8 @@ For reference!
 | ------- | ------- |
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HariniKS13/LeetCode-problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
