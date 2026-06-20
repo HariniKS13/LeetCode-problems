@@ -11,6 +11,7 @@ For reference!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/HariniKS13/LeetCode-problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@ For reference!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/HariniKS13/LeetCode-problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +36,5 @@ For reference!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/HariniKS13/LeetCode-problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
