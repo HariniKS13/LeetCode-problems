@@ -16,6 +16,7 @@ For reference!
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
+| [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
@@ -86,4 +87,8 @@ For reference!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
