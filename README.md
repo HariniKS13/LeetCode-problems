@@ -15,6 +15,7 @@ For reference!
 | [0136-single-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/HariniKS13/LeetCode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/HariniKS13/LeetCode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
@@ -30,6 +31,7 @@ For reference!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/HariniKS13/LeetCode-problems/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/HariniKS13/LeetCode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HariniKS13/LeetCode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## Math
@@ -66,6 +68,7 @@ For reference!
 | [0075-sort-colors](https://github.com/HariniKS13/LeetCode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/HariniKS13/LeetCode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HariniKS13/LeetCode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0414-third-maximum-number/) | Easy |
