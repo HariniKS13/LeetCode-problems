@@ -12,6 +12,7 @@ For reference!
 | [0027-remove-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/HariniKS13/LeetCode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0136-single-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@ For reference!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/HariniKS13/LeetCode-problems/tree/main/0125-valid-palindrome/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
