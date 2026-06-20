@@ -15,6 +15,7 @@ For reference!
 | [0136-single-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
+| [0414-third-maximum-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
@@ -61,6 +62,7 @@ For reference!
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/HariniKS13/LeetCode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
