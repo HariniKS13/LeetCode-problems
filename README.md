@@ -18,6 +18,7 @@ For reference!
 | [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/HariniKS13/LeetCode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/HariniKS13/LeetCode-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/HariniKS13/LeetCode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
@@ -35,6 +36,7 @@ For reference!
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HariniKS13/LeetCode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HariniKS13/LeetCode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/HariniKS13/LeetCode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ For reference!
 | [0283-move-zeroes](https://github.com/HariniKS13/LeetCode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/HariniKS13/LeetCode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/HariniKS13/LeetCode-problems/tree/main/0917-reverse-only-letters/) | Easy |
@@ -75,6 +78,7 @@ For reference!
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/HariniKS13/LeetCode-problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/HariniKS13/LeetCode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/HariniKS13/LeetCode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
@@ -110,6 +114,7 @@ For reference!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HariniKS13/LeetCode-problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/HariniKS13/LeetCode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HariniKS13/LeetCode-problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Prefix Sum
