@@ -60,6 +60,7 @@ For reference!
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/HariniKS13/LeetCode-problems/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/HariniKS13/LeetCode-problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ For reference!
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/HariniKS13/LeetCode-problems/tree/main/0917-reverse-only-letters/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/HariniKS13/LeetCode-problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
