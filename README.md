@@ -13,6 +13,7 @@ For reference!
 | [0075-sort-colors](https://github.com/HariniKS13/LeetCode-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HariniKS13/LeetCode-problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/HariniKS13/LeetCode-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/HariniKS13/LeetCode-problems/tree/main/0217-contains-duplicate/) | Easy |
@@ -50,6 +51,7 @@ For reference!
 | [0088-merge-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/HariniKS13/LeetCode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HariniKS13/LeetCode-problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/HariniKS13/LeetCode-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0344-reverse-string/) | Easy |
@@ -105,6 +107,7 @@ For reference!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/HariniKS13/LeetCode-problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HariniKS13/LeetCode-problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Prefix Sum
