@@ -59,6 +59,7 @@ For reference!
 | [0344-reverse-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HariniKS13/LeetCode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/HariniKS13/LeetCode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/HariniKS13/LeetCode-problems/tree/main/0917-reverse-only-letters/) | Easy |
@@ -92,6 +93,7 @@ For reference!
 | [0344-reverse-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/HariniKS13/LeetCode-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0389-find-the-difference](https://github.com/HariniKS13/LeetCode-problems/tree/main/0389-find-the-difference/) | Easy |
+| [0392-is-subsequence](https://github.com/HariniKS13/LeetCode-problems/tree/main/0392-is-subsequence/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0917-reverse-only-letters](https://github.com/HariniKS13/LeetCode-problems/tree/main/0917-reverse-only-letters/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/HariniKS13/LeetCode-problems/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -125,4 +127,8 @@ For reference!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/HariniKS13/LeetCode-problems/tree/main/1672-richest-customer-wealth/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/HariniKS13/LeetCode-problems/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
