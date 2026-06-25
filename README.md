@@ -26,6 +26,7 @@ For reference!
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/HariniKS13/LeetCode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/HariniKS13/LeetCode-problems/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -120,10 +121,12 @@ For reference!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HariniKS13/LeetCode-problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/HariniKS13/LeetCode-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/HariniKS13/LeetCode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HariniKS13/LeetCode-problems/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/HariniKS13/LeetCode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -134,4 +137,8 @@ For reference!
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariniKS13/LeetCode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/HariniKS13/LeetCode-problems/tree/main/0392-is-subsequence/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/HariniKS13/LeetCode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
