@@ -23,6 +23,7 @@ For reference!
 | [0414-third-maximum-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/HariniKS13/LeetCode-problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/HariniKS13/LeetCode-problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/HariniKS13/LeetCode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0704-binary-search](https://github.com/HariniKS13/LeetCode-problems/tree/main/0704-binary-search/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/HariniKS13/LeetCode-problems/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -46,6 +47,7 @@ For reference!
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/HariniKS13/LeetCode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/HariniKS13/LeetCode-problems/tree/main/0189-rotate-array/) | Medium |
+| [0486-predict-the-winner](https://github.com/HariniKS13/LeetCode-problems/tree/main/0486-predict-the-winner/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,8 +139,17 @@ For reference!
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HariniKS13/LeetCode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/HariniKS13/LeetCode-problems/tree/main/0392-is-subsequence/) | Easy |
+| [0486-predict-the-winner](https://github.com/HariniKS13/LeetCode-problems/tree/main/0486-predict-the-winner/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/HariniKS13/LeetCode-problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/HariniKS13/LeetCode-problems/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/HariniKS13/LeetCode-problems/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
